@@ -1,2 +1,2 @@
 # UniHack2022---Gan-Enjoyers
-Uses reinforcement learning to solve a top down pathfinding problem.
+Used reinforcement learning to develop a scalable general solution to pathfinding problems. A simple game is used as proof of concept.
